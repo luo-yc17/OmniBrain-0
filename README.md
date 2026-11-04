@@ -157,11 +157,10 @@ For local preview and GitHub Pages deployment, see [WEBSITE.md](WEBSITE.md).
 ## Citation
 
 ```bibtex
-@techreport{omnibrain0_2026,
-  title = {OmniBrain-0: A Unified Agentic Model for Embodied Intelligence},
-  author = {{Xiaomi Embodied Intelligence Team}
-            and {Tsinghua University}
-            and {University of Macau}},
-  year = {2026}
+@article{team2026omnibrain,
+  title={OmniBrain-0: A Unified Agentic Model for Embodied Intelligence},
+  author={Team, Xiaomi Embodied Intelligence and Luo, Yuechen and He, Chong and Li, Fang and Xu, Shaoqing and Wang, Jingkai and Su, Menglun and Liu, Jiaxin and Jiang, Shengyin and Lai, Zhiyi and others},
+  journal={arXiv preprint arXiv:2610.36013},
+  year={2026}
 }
 ```
