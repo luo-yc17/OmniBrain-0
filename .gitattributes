@@ -1,8 +1,2 @@
-# Exclude the project website from research-code language statistics.
-/index.html linguist-documentation=true
-/styles.css linguist-documentation=true
-/app.js linguist-documentation=true
-/assets/** linguist-documentation=true
-
-# Include the repository's existing Python scripts.
+# Include the existing Python research utilities in language statistics.
 *.py linguist-detectable=true

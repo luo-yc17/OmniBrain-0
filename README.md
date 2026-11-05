@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/omnibrain-wordmark.svg" width="380" alt="OmniBrain-0">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/omnibrain-wordmark.svg" width="380" alt="OmniBrain-0">
 </p>
 
 <h1 align="center">OmniBrain-0: A Unified Agentic Model for Embodied Intelligence</h1>
@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://luo-yc17.github.io/OmniBrain-0/assets/OmniBrain-0-Technical-Report.pdf"><img src="assets/badge-paper.svg" height="28" alt="Paper: Technical Report"></a>
+  <a href="https://arxiv.org/pdf/2610.36013"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-paper.svg" height="28" alt="Paper: Technical Report"></a>
   &nbsp;
-  <a href="https://luo-yc17.github.io/OmniBrain-0/"><img src="assets/badge-project.svg" height="28" alt="Project Page"></a>
+  <a href="https://luo-yc17.github.io/OmniBrain-0/"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-project.svg" height="28" alt="Project Page"></a>
   &nbsp;
-  <a href="#release-status"><img src="assets/badge-code.svg" height="28" alt="Code: Release Soon"></a>
+  <a href="#release-status"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-code.svg" height="28" alt="Code: Release Soon"></a>
 </p>
 
 ## 🌟 Core Highlights
 
 <p align="center">
-  <img src="assets/repository-overview.webp?v=overleaf-20261020" width="100%" alt="Overview of OmniBrain-0: three-stage training, unified agentic execution, performance, and rubric-guided recursive self-improvement">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/repository-overview.webp?v=overleaf-20261020" width="100%" alt="Overview of OmniBrain-0: three-stage training, unified agentic execution, performance, and rubric-guided recursive self-improvement">
 </p>
 
 
@@ -35,7 +35,7 @@ The unified model learns task-level decisions while perception modules, VLA/VLN 
 ## Agent Architecture
 
 <p align="center">
-  <img src="assets/architecture.webp?v=overleaf-20261020" width="100%" alt="Unified agentic execution framework connecting perception, manipulation, navigation and motion tools through observations and feedback">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/architecture.webp?v=overleaf-20261020" width="100%" alt="Unified agentic execution framework connecting perception, manipulation, navigation and motion tools through observations and feedback">
 </p>
 
 The shared high-level model selects semantic tool invocations. Each execution returns observations and feedback for the next decision; expert interactions from the same framework supply trajectories for learning.
@@ -43,7 +43,7 @@ The shared high-level model selects semantic tool invocations. Each execution re
 ## Results
 
 <p align="center">
-  <img src="assets/performance.webp?v=overleaf-20261020" width="100%" alt="Cross-domain performance comparison on LIBERO-Pro, RoboCasa365, RoboTwin 2.0, and R2R-CE from Figure 1 of the technical report">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/performance.webp?v=overleaf-20261020" width="100%" alt="Cross-domain performance comparison on LIBERO-Pro, RoboCasa365, RoboTwin 2.0, and R2R-CE from Figure 1 of the technical report">
 </p>
 
 Task success rates (%) reported in the manuscript. The RSI column denotes the model iterated through the RSI Data Flywheel.
@@ -63,7 +63,7 @@ The first four rows report Overall / Total success. R2R-CE reports SR on the 100
 ### Manipulation with recovery
 
 <p align="center">
-  <img src="assets/trace-libero.webp?v=overleaf-20261020" width="100%" alt="LIBERO-Pro execution traces showing a failed moka-pot grasp, revised decisions, recovery and verified placement">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/trace-libero.webp?v=overleaf-20261020" width="100%" alt="LIBERO-Pro execution traces showing a failed moka-pot grasp, revised decisions, recovery and verified placement">
 </p>
 
 The initial moka-pot grasp fails. OmniBrain-0 inspects the execution outcome, changes the action order, activates the stove, refines the grasp target, and retries before placing the pot on the burner.
@@ -71,7 +71,7 @@ The initial moka-pot grasp fails. OmniBrain-0 inspects the execution outcome, ch
 ### Bimanual task progress
 
 <p align="center">
-  <img src="assets/trace-robotwin.webp?v=overleaf-20261020" width="100%" alt="RoboTwin 2.0 execution traces for arranging colored blocks and opening a microwave">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/trace-robotwin.webp?v=overleaf-20261020" width="100%" alt="RoboTwin 2.0 execution traces for arranging colored blocks and opening a microwave">
 </p>
 
 The agent maintains object and grasp state while arranging the blocks, and follows the articulated door motion while opening the microwave.
@@ -79,7 +79,7 @@ The agent maintains object and grasp state while arranging the blocks, and follo
 ### Multi-stage household tasks
 
 <p align="center">
-  <img src="assets/trace-robocasa.webp?v=overleaf-20261020" width="100%" alt="RoboCasa365 execution traces for stirring vegetables and preparing a bread basket">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/trace-robocasa.webp?v=overleaf-20261020" width="100%" alt="RoboCasa365 execution traces for stirring vegetables and preparing a bread basket">
 </p>
 
 The agent revises an off-target vegetable grasp and tracks intermediate outcomes while handling dependent household sub-goals.
@@ -87,7 +87,7 @@ The agent revises an off-target vegetable grasp and tracks intermediate outcomes
 ### Navigation through ordered landmarks
 
 <p align="center">
-  <img src="assets/trace-navigation.webp?v=overleaf-20261020" width="100%" alt="R2R-CE navigation traces following a bedroom, bed, closet and bathroom mirror, and a second route through a patio to a kitchen">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/trace-navigation.webp?v=overleaf-20261020" width="100%" alt="R2R-CE navigation traces following a bedroom, bed, closet and bathroom mirror, and a second route through a patio to a kitchen">
 </p>
 
 The navigation examples show instruction decomposition, grounded sub-goals, progress tracking, and endpoint verification through successive observations and tool calls.
@@ -101,7 +101,7 @@ OmniBrain-0 learns embodied capabilities through three stages:
 3. **Multi-teacher on-policy distillation (MOPD)** consolidates the domain experts into a unified student using supervision on student-generated decision prefixes.
 
 <p align="center">
-  <img src="assets/training.webp?v=overleaf-20261020" width="100%" alt="OmniBrain-0 training framework: embodied pretraining, domain-specialized distillation and multi-expert consolidation">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/training.webp?v=overleaf-20261020" width="100%" alt="OmniBrain-0 training framework: embodied pretraining, domain-specialized distillation and multi-expert consolidation">
 </p>
 
 ### Interaction Data Construction
@@ -109,13 +109,13 @@ OmniBrain-0 learns embodied capabilities through three stages:
 Expert interactions are normalized, checked for trajectory quality, rewritten into state-grounded reasoning, and validated for consistency. Training retains canonical successes and successful recoveries.
 
 <p align="center">
-  <img src="assets/data-pipeline.webp?v=overleaf-20261020" width="100%" alt="Data pipeline aligning expert observations, decisions, tool invocations and execution feedback">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/data-pipeline.webp?v=overleaf-20261020" width="100%" alt="Data pipeline aligning expert observations, decisions, tool invocations and execution feedback">
 </p>
 
 ## Recursive Self-Improvement
 
 <p align="center">
-  <img src="assets/reminder-policy.webp?v=overleaf-20261020" width="100%" alt="Rubric-based policy update and reminder-policy validation from Figure 6 of the technical report">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/reminder-policy.webp?v=overleaf-20261020" width="100%" alt="Rubric-based policy update and reminder-policy validation from Figure 6 of the technical report">
 </p>
 
 The verifier assesses collected trajectories. The Meta-Agent refines robotics rubrics, and candidate reminders are validated through further interaction before they are retained.
@@ -123,13 +123,13 @@ The verifier assesses collected trajectories. The Meta-Agent refines robotics ru
 **Analyze → Guide → Curate → Improve.** A Meta-Agent analyzes interaction evidence and refines rubrics and step-level reminders. Verified trajectories augment domain-expert training; MOPD then consolidates the updated experts into the next unified model.
 
 <p align="center">
-  <img src="assets/flywheel.webp?v=overleaf-20261020" width="100%" alt="RSI data flywheel connecting challenging interactions, rubric-guided reminders, verified data, expert training and model consolidation">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/flywheel.webp?v=overleaf-20261020" width="100%" alt="RSI data flywheel connecting challenging interactions, rubric-guided reminders, verified data, expert training and model consolidation">
 </p>
 
 ### Reminder-Guided Execution
 
 <p align="center">
-  <img src="assets/reminder.webp?v=overleaf-20261020" width="100%" alt="Reminder triggers at steps 2 and 3 during wine-bottle placement">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/reminder.webp?v=overleaf-20261020" width="100%" alt="Reminder triggers at steps 2 and 3 during wine-bottle placement">
 </p>
 
 In this wine-bottle placement example, reminders are triggered before the grasp at step 2 and the following arm motion at step 3. The other displayed decisions proceed without reminders.
@@ -139,20 +139,20 @@ In this wine-bottle placement example, reminders are triggered before the grasp 
 Real-world evaluation includes block stacking, apple placement, and drawer opening. The examples below show the robot coordinating perception and manipulation tools while updating its decisions from execution feedback.
 
 <p align="center">
-  <img src="assets/real-world.webp?v=overleaf-20261020" width="100%" alt="Physical robot execution examples for cube stacking and apple placement">
+  <img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/real-world.webp?v=overleaf-20261020" width="100%" alt="Physical robot execution examples for cube stacking and apple placement">
 </p>
 
 ## Project Website
 
 Visit the project page at **https://luo-yc17.github.io/OmniBrain-0/**.
 
-This repository contains the research project page and its source. The page includes interactive execution keyframes, benchmark results, the training framework, and RSI visualizations.
+Explore interactive execution examples, benchmark results, the training framework, and RSI visualizations on the project website.
 
-For local preview and GitHub Pages deployment, see [WEBSITE.md](WEBSITE.md).
+Website source and static assets are maintained on the [`page` branch](https://github.com/luo-yc17/OmniBrain-0/tree/page).
 
 ## Release Status
 
-**Code: release soon.** The code release will be announced in this repository.
+**Code: coming soon.**
 
 ## Citation
 
