@@ -144,7 +144,7 @@ Real-world evaluation includes block stacking, apple placement, and drawer openi
 
 ## Project Website
 
-Visit the project page at **https://luo-yc17.github.io/OmniBrain-0/**.
+Visit the project page at **https://public-bots.github.io/OmniBrain-0/**.
 
 Explore interactive execution examples, benchmark results, the training framework, and RSI visualizations on the project website.
 
