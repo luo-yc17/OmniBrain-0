@@ -147,17 +147,15 @@
       ]
     },
     "real-world": {
-      "page": 27,
-      "bounds": [
-        70.86,
-        216.98,
-        541.14,
-        396.28
-      ],
+      "source": "Overleaf: figs/real_world.jpg",
+      "overleaf_commit": "d4da14f4fdfc727e0fa7196b830e11a91bcaaa9f",
+      "source_git_blob": "dd7697d0121c100bc55c36eaf5da735b31b76be5",
+      "exported_on": "2026-10-22",
       "size": [
-        3001,
-        1144
-      ]
+        6348,
+        2420
+      ],
+      "format": "WebP, quality 95; original dimensions"
     },
     "reminder": {
       "page": 28,
