@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://arxiv.org/pdf/2610.36013"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-paper.svg" height="28" alt="Paper: Technical Report"></a>
   &nbsp;
-  <a href="https://luo-yc17.github.io/OmniBrain-0/"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-project.svg" height="28" alt="Project Page"></a>
+  <a href="https://public-bots.github.io/OmniBrain-0/"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-project.svg" height="28" alt="Project Page"></a>
   &nbsp;
   <a href="#release-status"><img src="https://raw.githubusercontent.com/luo-yc17/OmniBrain-0/page/assets/badge-code.svg" height="28" alt="Code: Release Soon"></a>
 </p>
